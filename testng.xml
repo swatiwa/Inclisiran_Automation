@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="NewSuiteCases" verbose="1">
+    <test name="RetrySuites">
+        <classes>
+
+<!--            <class name="TestScenarios.HCPScenarios.AddNewPatientNSave" />-->
+<!--            <class name="TestScenarios.HCPScenarios.AddNewPatientNSave500error" />-->
+<!--            <class name="TestScenarios.HCPScenarios.AddNewRequest_toExistingPatient" />-->
+
+            <class name="TestScenarios.HCPScenarios.PracticeManagement_AddPrescriber" />
+            <class name="TestScenarios.HCPScenarios.PracticeManagement_AddLocation" />
+            <class name="TestScenarios.HCPScenarios.PracticeManagement_AddUser_Contact" />
+            <class name="TestScenarios.HCPScenarios.PracticeManagement_AddUser_Provider" />
+
+
+<!--            <class name="TestScenarios.HCPScenarios.Register_Contact" />-->
+<!--            <class name="TestScenarios.HCPScenarios.Register_Prescriber_ExistingNPI" />-->
+<!--            <class name="TestScenarios.HCPScenarios.Register_Prescriber_NonExistingNPI" />-->
+
+<!--            <class name="TestScenarios.HCPScenarios.SearchPatient_AddAllServices" />-->
+<!--            <class name="TestScenarios.HCPScenarios.SearchPatient_AddCopayEnrollment" />-->
+<!--            <class name="TestScenarios.HCPScenarios.SearchPatient_AddInsuranceDetermination" />-->
+<!--            <class name="TestScenarios.HCPScenarios.SearchPatient_AddPatientEducationAndSupportResources" />-->
+
+        </classes>
+    </test>
+</suite>

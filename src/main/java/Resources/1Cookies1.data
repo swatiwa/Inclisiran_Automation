@@ -1,0 +1,16 @@
+ESTSAUTHLIGHT;+a747e9dc-2de9-4a75-84e0-db435fc3fad6;login.microsoftonline.com;/;null;true
+buid;AQABAAEAAAAGV_bv21oQQ4ROqh0_1-tADcCTFNMWpybyOwF4dBOmv0Lk93iPYlQ5jS113Dh8_nULQ86KYP8MD32Fv4JaEH7AffHM5j9t1e42yHjk7ei8xCPasWr2jtQfnKlQLdTC86IgAA;login.microsoftonline.com;/;Wed Sep 23 12:47:39 EDT 2020;true
+ESTSAUTHPERSISTENT;AgABAAQAAAAGV_bv21oQQ4ROqh0_1-tAAQDs_wIA9P9me4xN7sgVizCe5nU6wylXlAL1aH5Jvj7YTxsQ5KfyO27mp6TBV-D5PcQynD2MuM8zd6Ztm-x9I0x3dOqpJparKNLmJBAPvFHr5mGe0aWZcu5yZ-G0j8-mhI0TGQaLrdw_GCNFFo8lIzuFHa1QXpSzhslmwjkkonxQmiYBs_4f-ESB29Tt8cyIRzsuEJIaRHdifKkS3TeN0kytLoLcWC7AY2OY_nDnw1QvimsiO7W0eBGDgiSGD9tfK03QAy3cegmuGYsxAB9VUkQ3TgyeO4ensaVXcppCvUvGlGGg1G3ZyDyFHulA_XEsMkpCotHE9GxCprFF_8h3LpaGoVy069c9p9NsSz8net4HxZLrsByvpr1Vfi-TStNFfweHBQdhL01qWu1v_A;.login.microsoftonline.com;/;Sun Nov 22 11:47:39 EST 2020;true
+ch;zT_Ed9v9MmXLqte4DKb2r4D9zsPO8hY_Puf63ep1MF0;.login.microsoftonline.com;/;Sun Nov 22 11:47:39 EST 2020;true
+ESTSAUTH;AgABAAQAAAAGV_bv21oQQ4ROqh0_1-tAAQDs_wIA9P9RxxyQYB9aB94LVibCdoHYU8OBF05e9hvWv-DTc7b1Ikjj2bcP3dQbszaBP3eaHLIu3xQe7xIPOmjtJOGAjFRg817cWYe-HhYZXYBueUh-1bl5NJasSqORanJsQIXNBARmD1pQir11XnJNe2AFsAzZJV_BW3iKESvtfn9yMpKHgg8TSiMrDEYlZdLPFa-Pbtz1Ivk-7CJqqluraUNlNgp3VUFJdbPcumYgpx8PybkpVf2G8Y5uMOn8s6fcX69XC9LxWXExTPy1o750VbK23jx_0KzCXalJnB5X2B-l_pmv7U04-9SaJ4I14TgBIrvFQaUYYc1RFlxpwfMWWFGaYrRWOAXc8FHvsqOuJEFE6yfdtETwt2rJXlhioOjcteWCgLXPFqG3QrK-ha8JDcK5aFbBQdh7JRJ8Fb2HEHGTMNV5yld9izvF2SDhlWRwuQ7dD5P7UfwZPGUMI2sZF9mUEsNp1AMQ1sytuqTKfzwZY4XoW9kTpXr6HA;.login.microsoftonline.com;/;null;true
+ESTSSC;00;login.microsoftonline.com;/;null;true
+SSOCOOKIEPULLED;1;login.microsoftonline.com;/;Mon Aug 24 12:48:10 EDT 2020;true
+AADSSO;NA|NoExtension;.login.microsoftonline.com;/;null;true
+stsservicecookie;ests;login.microsoftonline.com;/;null;true
+clrc;{%2218499%22%3a[%228EvTcbbH%22%2c%22oKjxs1gO%22%2c%22I84HBtF6%22%2c%22kZ5RGtSD%22]};login.microsoftonline.com;/;Wed Sep 23 12:47:44 EDT 2020;true
+ExternalIdpStateHash;i_FR1R7MdjMH7HWREqqPkMZ579g7EDeVwJtrIomqFs8;login.microsoftonline.com;/;null;true
+wlidperf;FR=L&ST=1598287645928;.microsoftonline.com;/;Sat Sep 18 12:47:25 EDT 2021;true
+fpc;AiFEFfJi2OlLg5Iy4jGJeRAMruq5AQAAAA7m1dYOAAAAfcTFdwEAAAAe5tXWDgAAAOPevtABAAAAK-bV1g4AAAA;login.microsoftonline.com;/;Wed Sep 23 12:47:40 EDT 2020;true
+brcap;0;.login.microsoftonline.com;/;Sat Sep 18 12:47:11 EDT 2021;true
+x-ms-gateway-slice;prod;login.microsoftonline.com;/;null;true
+esctx;AQABAAAAAAAGV_bv21oQQ4ROqh0_1-tAAcOcibREjG4nvxCnajlfAGuaV2i-PepF33YLnwd4nyG7TPghPQmIdRTdlizCKFHtIQQud5bDQHQXDuhtN_YfRw7NSbVzpy5-iNONyJn0Do9R9mwNhZ4I9Z0B9vyZMPn576Ymoru8RLtJowz5FkKrinYtLR3zEtUxKv5A_H4dbWggAA;.login.microsoftonline.com;/;null;true
